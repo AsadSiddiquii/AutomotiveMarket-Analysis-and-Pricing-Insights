@@ -12,8 +12,8 @@ The used car market is rapidly expanding, with buyers and sellers relying on dat
 ## Access to Resources
 
 - **[Dataset](https://github.com/AsadSiddiquii/AutomotiveMarket-Analysis-and-Pricing-Insights/blob/main/data/cars.csv):** A dataset of used cars, including attributes like price, mileage, engine size, power, and more.
-- **[Python](https://github.com/asadsiddiquii/used-cars-analysis/blob/main/NoteBook.ipynb):** Jupyter Notebook for coding and visualizing analysis
-- **[Tableau:](https://public.tableau.com/app/profile/asadsiddiquii/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)** For Dashboard
+- **[Python](https://github.com/AsadSiddiquii/AutomotiveMarket-Analysis-and-Pricing-Insights/blob/main/NoteBook.ipynb):** Jupyter Notebook for coding and visualizing analysis
+- **[Tableau:](https://github.com/AsadSiddiquii/AutomotiveMarket-Analysis-and-Pricing-Insights/blob/main/Dashboard.twbx)** For Dashboard
 
 All necessary resources are included in the repository to reproduce the analysis.
 ## Tableau Interactive Dashboard Screenshots
