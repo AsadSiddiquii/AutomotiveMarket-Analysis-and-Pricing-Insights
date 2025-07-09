@@ -120,8 +120,8 @@ untapped potential with 50% higher efficiency than conventional options.
 
 ## Access to Resources
 
-- **[Dataset](https://github.com/lakshaykamat/used-cars-analysis/blob/main/data/cars.csv):** A dataset of used cars, including attributes like price, mileage, engine size, power, and more.
-- **[Python](https://github.com/lakshaykamat/used-cars-analysis/blob/main/NoteBook.ipynb):** Jupyter Notebook for coding and visualizing analysis
-- **[Tableau:](https://public.tableau.com/app/profile/lakshay.kamat/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)** For Dashboard
+- **[Dataset](https://github.com/AsadSiddiquii/AutomotiveMarket-Analysis-and-Pricing-Insights/blob/main/data/cars.csv):** A dataset of used cars, including attributes like price, mileage, engine size, power, and more.
+- **[Python](https://github.com/AsadSiddiquii/AutomotiveMarket-Analysis-and-Pricing-Insights/blob/main/Dashboard.twbx):** Jupyter Notebook for coding and visualizing analysis
+- **[Tableau:](https://github.com/AsadSiddiquii/AutomotiveMarket-Analysis-and-Pricing-Insights/blob/main/Dashboard.twbx)** For Dashboard
 
 All necessary resources are included in the repository to reproduce the analysis.
