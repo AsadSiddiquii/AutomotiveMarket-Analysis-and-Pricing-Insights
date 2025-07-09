@@ -11,14 +11,14 @@ The used car market is rapidly expanding, with buyers and sellers relying on dat
 > ### Analyzing 6,019 used cars to uncover pricing drivers, regional trends, and fuel efficiency insights, empowering stakeholders to leverage India's $100B used car market growth by 2030
 ## Access to Resources
 
-- **[Dataset](https://github.com/lakshaykamat/used-cars-analysis/blob/main/data/cars.csv):** A dataset of used cars, including attributes like price, mileage, engine size, power, and more.
-- **[Python](https://github.com/lakshaykamat/used-cars-analysis/blob/main/NoteBook.ipynb):** Jupyter Notebook for coding and visualizing analysis
-- **[Tableau:](https://public.tableau.com/app/profile/lakshay.kamat/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)** For Dashboard
+- **[Dataset](https://github.com/asadsiddiquii/used-cars-analysis/blob/main/data/cars.csv):** A dataset of used cars, including attributes like price, mileage, engine size, power, and more.
+- **[Python](https://github.com/asadsiddiquii/used-cars-analysis/blob/main/NoteBook.ipynb):** Jupyter Notebook for coding and visualizing analysis
+- **[Tableau:](https://public.tableau.com/app/profile/asadsiddiquii/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)** For Dashboard
 
 All necessary resources are included in the repository to reproduce the analysis.
 ## Tableau Interactive Dashboard Screenshots
-[![](assets/dashboard1.png)](https://public.tableau.com/app/profile/lakshay.kamat/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)
-[![](assets/dashboard2.png)](https://public.tableau.com/app/profile/lakshay.kamat/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)
+[![](assets/dashboard1.png)](https://public.tableau.com/app/profile/asadsiddiquii/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)
+[![](assets/dashboard2.png)](https://public.tableau.com/app/profile/asadsiddiquii/viz/UsedCarsDashboard_17366223395650/UsedCarsDashboard?publish=yes)
 ## Data Overview
 
 The dataset contains information about used cars, including but not limited to:
